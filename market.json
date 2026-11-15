@@ -1,0 +1,407 @@
+{
+  "version": 1,
+  "fetchedAt": "2026-11-15T11:18:25+09:00",
+  "asOf": "11月第2週",
+  "yearMonth": "2026年11月",
+  "region": "九州・福岡",
+  "summary": "卵は卸値が平年より約14%高い水準のまま、11月に入り京都・亀岡など国内農場で鳥インフルエンザの発生が始まり、年末の最需要期に向けて上昇が見込まれる。米は9月以降の値下がりで5kg 2,800円台まで下がったが、11月1日までの週に12週ぶりに小幅上昇。野菜はキャベツ・大根が平年より高め、白菜は11月後半に高くなる見込み、玉ねぎ・里芋は平年より安い。",
+  "newsAlerts": [
+    {
+      "date": "11/11",
+      "headline": "京都府亀岡市の養鶏場で鳥インフルエンザ陽性、今季の国内農場での発生始まる",
+      "impact": "年末に向けて卵の卸値が上がりやすい。卵の買いだめは避け、豆腐・納豆で補う",
+      "items": [
+        "卵",
+        "鶏肉"
+      ]
+    },
+    {
+      "date": "11/6",
+      "headline": "米5kgのスーパー平均2,816円、12週ぶりに値上がり",
+      "impact": "2年ぶりの安値圏だが下げ止まり。急いでまとめ買いする必要はない",
+      "items": [
+        "米"
+      ]
+    },
+    {
+      "date": "10/30",
+      "headline": "農水省：11月は大根・キャベツが平年より高め、玉ねぎ・里芋は安め",
+      "impact": "鍋野菜の大根・白菜は量を控えめに、玉ねぎ・里芋を主役に",
+      "items": [
+        "大根",
+        "キャベツ",
+        "白菜",
+        "玉ねぎ"
+      ]
+    },
+    {
+      "date": "11/6",
+      "headline": "秋田で野鳥（カラス）から鳥インフルエンザ検出",
+      "impact": "渡り鳥シーズン本格化で、今後も農場での発生が続くおそれ",
+      "items": [
+        "卵"
+      ]
+    }
+  ],
+  "watchlist": [
+    {
+      "item": "卵",
+      "category": "定番",
+      "level": "やや高い",
+      "trend": "上昇",
+      "vsNormal": "平年比+14%（9月卸値）",
+      "reason": "卸値が過去5年平均を上回る中、鳥インフルが今季発生",
+      "outlook": "12月の最需要期に向けて上昇しやすい",
+      "source": "農畜産業振興機構「畜産の情報」11月号（9月の鶏卵卸売価格）・京都府 11/11"
+    },
+    {
+      "item": "米",
+      "category": "定番",
+      "level": "やや安い",
+      "trend": "横ばい",
+      "vsNormal": "5kg 2,816円（全国スーパー平均）",
+      "reason": "増産と在庫増で値下がりが続いたが下げ止まり",
+      "outlook": "2,800円前後で落ち着く見込み",
+      "source": "NHK 11/6（農水省発表・11月1日までの週）"
+    },
+    {
+      "item": "鶏むね肉",
+      "category": "定番",
+      "level": "平年並み",
+      "trend": "横ばい",
+      "vsNormal": "",
+      "reason": "国内生産は安定。鳥インフルの影響は主に採卵鶏",
+      "outlook": "当面は安定の見込み",
+      "source": "推定"
+    },
+    {
+      "item": "鶏もも肉",
+      "category": "定番",
+      "level": "平年並み",
+      "trend": "横ばい",
+      "vsNormal": "",
+      "reason": "年末の需要期前で大きな動きなし",
+      "outlook": "12月はクリスマス需要でやや上がりやすい",
+      "source": "推定"
+    },
+    {
+      "item": "豚こま・豚肉",
+      "category": "定番",
+      "level": "やや高い",
+      "trend": "横ばい",
+      "vsNormal": "",
+      "reason": "円安（1ドル160円前後）で輸入豚肉が割高",
+      "outlook": "国産の切り落としは比較的安定",
+      "source": "推定（為替は農畜産業振興機構の資料による）"
+    },
+    {
+      "item": "牛肉",
+      "category": "定番",
+      "level": "高い",
+      "trend": "横ばい",
+      "vsNormal": "",
+      "reason": "円安と米国の牛肉生産減で輸入牛が高値",
+      "outlook": "年末にかけて高止まり",
+      "source": "推定（米国の生産減は農畜産業振興機構「畜産の情報」10月号）"
+    },
+    {
+      "item": "ひき肉",
+      "category": "定番",
+      "level": "平年並み",
+      "trend": "横ばい",
+      "vsNormal": "",
+      "reason": "合いびきは牛肉高の影響を一部受ける",
+      "outlook": "鶏ひき・豚ひきが割安",
+      "source": "推定"
+    },
+    {
+      "item": "牛乳・ヨーグルト",
+      "category": "定番",
+      "level": "やや高い",
+      "trend": "横ばい",
+      "vsNormal": "",
+      "reason": "飼料・物流コスト高で高止まり",
+      "outlook": "大きな変動はない見込み",
+      "source": "推定"
+    },
+    {
+      "item": "豆腐・納豆",
+      "category": "定番",
+      "level": "平年並み",
+      "trend": "横ばい",
+      "vsNormal": "",
+      "reason": "価格優等生で安定",
+      "outlook": "安定。卵の代わりのたんぱく源に",
+      "source": "推定"
+    },
+    {
+      "item": "もやし",
+      "category": "定番",
+      "level": "安い",
+      "trend": "横ばい",
+      "vsNormal": "",
+      "reason": "工場生産で天候の影響を受けない",
+      "outlook": "安定",
+      "source": "推定"
+    },
+    {
+      "item": "食用油",
+      "category": "定番",
+      "level": "やや高い",
+      "trend": "横ばい",
+      "vsNormal": "",
+      "reason": "原料の輸入と円安で高止まり",
+      "outlook": "当面高止まり",
+      "source": "推定"
+    },
+    {
+      "item": "パン・麺・小麦粉",
+      "category": "定番",
+      "level": "平年並み",
+      "trend": "横ばい",
+      "vsNormal": "",
+      "reason": "大きな値上げの話題なし",
+      "outlook": "安定",
+      "source": "推定"
+    },
+    {
+      "item": "キャベツ",
+      "category": "野菜",
+      "level": "やや高い",
+      "trend": "横ばい",
+      "vsNormal": "",
+      "reason": "11月は出荷が少なめで平年を上回る見込み",
+      "outlook": "11月中は高め",
+      "source": "農林水産省 野菜の価格見通し（11月）10/30"
+    },
+    {
+      "item": "白菜",
+      "category": "野菜",
+      "level": "やや高い",
+      "trend": "上昇",
+      "vsNormal": "",
+      "reason": "茨城産が9月の長雨・日照不足で生育遅れ",
+      "outlook": "11月後半は平年を上回る見込み",
+      "source": "農林水産省 野菜の価格見通し（11月）10/30"
+    },
+    {
+      "item": "大根",
+      "category": "野菜",
+      "level": "やや高い",
+      "trend": "横ばい",
+      "vsNormal": "",
+      "reason": "出荷が少なめ",
+      "outlook": "11月中は平年を上回る見込み",
+      "source": "農林水産省 野菜の価格見通し（11月）10/30"
+    },
+    {
+      "item": "玉ねぎ",
+      "category": "野菜",
+      "level": "やや安い",
+      "trend": "下落",
+      "vsNormal": "",
+      "reason": "北海道産が順調で大玉傾向、出荷多め",
+      "outlook": "11月は平年を下回る見込み",
+      "source": "農林水産省 野菜の価格見通し（11月）10/30"
+    },
+    {
+      "item": "にんじん",
+      "category": "野菜",
+      "level": "平年並み",
+      "trend": "横ばい",
+      "vsNormal": "",
+      "reason": "",
+      "outlook": "",
+      "source": "推定"
+    },
+    {
+      "item": "じゃがいも",
+      "category": "野菜",
+      "level": "平年並み",
+      "trend": "横ばい",
+      "vsNormal": "",
+      "reason": "",
+      "outlook": "",
+      "source": "推定"
+    },
+    {
+      "item": "トマト",
+      "category": "野菜",
+      "level": "やや高い",
+      "trend": "横ばい",
+      "vsNormal": "",
+      "reason": "夏秋産の終盤で出荷が細る時期",
+      "outlook": "冬春産（熊本）が増えると落ち着く",
+      "source": "推定"
+    },
+    {
+      "item": "きゅうり",
+      "category": "野菜",
+      "level": "平年並み",
+      "trend": "横ばい",
+      "vsNormal": "",
+      "reason": "",
+      "outlook": "",
+      "source": "推定"
+    },
+    {
+      "item": "レタス",
+      "category": "野菜",
+      "level": "平年並み",
+      "trend": "横ばい",
+      "vsNormal": "",
+      "reason": "",
+      "outlook": "",
+      "source": "推定"
+    },
+    {
+      "item": "ほうれん草・小松菜",
+      "category": "野菜",
+      "level": "平年並み",
+      "trend": "下落",
+      "vsNormal": "",
+      "reason": "冬の葉物の出荷が増える時期",
+      "outlook": "これから値ごろに",
+      "source": "推定"
+    },
+    {
+      "item": "ブロッコリー",
+      "category": "野菜",
+      "level": "平年並み",
+      "trend": "横ばい",
+      "vsNormal": "",
+      "reason": "",
+      "outlook": "",
+      "source": "推定"
+    },
+    {
+      "item": "きのこ類",
+      "category": "野菜",
+      "level": "安い",
+      "trend": "横ばい",
+      "vsNormal": "",
+      "reason": "工場生産で安定",
+      "outlook": "安定。高い野菜の代わりに",
+      "source": "推定"
+    },
+    {
+      "item": "サバ・アジなど青魚",
+      "category": "魚介",
+      "level": "平年並み",
+      "trend": "横ばい",
+      "vsNormal": "",
+      "reason": "秋サバの時期",
+      "outlook": "",
+      "source": "推定"
+    },
+    {
+      "item": "鮭",
+      "category": "魚介",
+      "level": "やや高い",
+      "trend": "横ばい",
+      "vsNormal": "",
+      "reason": "輸入品は円安で割高",
+      "outlook": "",
+      "source": "推定"
+    },
+    {
+      "item": "ブリ・タラなど旬の魚",
+      "category": "魚介",
+      "level": "平年並み",
+      "trend": "下落",
+      "vsNormal": "",
+      "reason": "ブリ・タラが旬入り",
+      "outlook": "12月にかけて脂が乗り値ごろに",
+      "source": "推定"
+    }
+  ],
+  "bestValueVegetables": [
+    {
+      "name": "玉ねぎ",
+      "reason": "11月は平年より安い見込み"
+    },
+    {
+      "name": "里芋",
+      "reason": "11月は平年より安い見込み"
+    },
+    {
+      "name": "きのこ類",
+      "reason": "工場生産で安定、旨味の要"
+    },
+    {
+      "name": "もやし",
+      "reason": "通年で底値、カサ増しに"
+    },
+    {
+      "name": "さつまいも",
+      "reason": "貯蔵物が豊富"
+    },
+    {
+      "name": "ほうれん草・小松菜",
+      "reason": "冬の出荷が増え値ごろに"
+    }
+  ],
+  "bestValueSeafood": [
+    {
+      "name": "ブリ",
+      "reason": "旬入り・九州近海で脂が乗る"
+    },
+    {
+      "name": "サバ",
+      "reason": "秋サバでDHA豊富"
+    },
+    {
+      "name": "真鯛",
+      "reason": "福岡近海で通年安定"
+    },
+    {
+      "name": "タラ",
+      "reason": "鍋の季節で値ごろ"
+    }
+  ],
+  "highPriceAlerts": [
+    {
+      "item": "卵",
+      "substitutes": "豆腐・納豆・厚揚げ・鶏むね",
+      "reason": "鳥インフル発生、年末に上昇見込み"
+    },
+    {
+      "item": "白菜",
+      "substitutes": "もやし・きのこ・ほうれん草",
+      "reason": "11月後半は平年より高い見込み"
+    },
+    {
+      "item": "大根・キャベツ",
+      "substitutes": "玉ねぎ・里芋・きのこ",
+      "reason": "11月は平年をやや上回る見込み"
+    },
+    {
+      "item": "牛肉",
+      "substitutes": "豚こま・鶏むね・鶏もも",
+      "reason": "円安と輸入減で高値"
+    }
+  ],
+  "stapleStrategy": "たんぱく源は鶏むね・豆腐・納豆・旬のブリやサバを中心に。卵は今週分だけ買い、まとめ買いはしない。米は安値圏なので通常どおり。鍋は白菜を控えめにし、きのこ・もやし・玉ねぎでカサ増し。",
+  "sources": [
+    {
+      "title": "農畜産業振興機構「畜産の情報」11月号 鶏卵（9月の卸売価格）",
+      "uri": "https://alic.go.jp/joho-c/joho05_004449.html"
+    },
+    {
+      "title": "京都府 令和8年度 高病原性鳥インフルエンザに関する情報（11/11）",
+      "uri": "https://www.pref.kyoto.jp/birdflu/r8birdflu.html"
+    },
+    {
+      "title": "農林水産省 秋田県の野鳥の鳥インフルエンザ検出（11/6）",
+      "uri": "https://www.maff.go.jp/j/press/syouan/douei/261106.html"
+    },
+    {
+      "title": "NHK 米の平均価格 12週ぶり値上がり（11/6）",
+      "uri": "https://news.web.nhk/newsweb/na/nd-20261106de71858"
+    },
+    {
+      "title": "農林水産省 野菜の生育状況及び価格見通し（令和8年11月）",
+      "uri": "https://www.maff.go.jp/j/press/nousan/engei/261030.html"
+    }
+  ]
+}
